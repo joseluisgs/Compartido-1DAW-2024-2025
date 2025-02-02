@@ -3,4 +3,4 @@ Listado de 1 DAW, curso 2024 - 2025
 - González, Sánchez, José Luis - Rol: Profesor - Github username: joseluisgs
 - Garcia-Heras, Herrero, Adrián - Rol: Alumno - Github username: AdriKael
 - Sánchez, Gasanz, Ángel - Rol: Alumno/subdelegado - Github username: SrAngelDev
--
+- Zuil, Armenteros, Pablo - Rol: Alumno - Github username: karrasmil80
